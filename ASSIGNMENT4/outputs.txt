@@ -1,0 +1,50 @@
+# Ruby translated code: 
+
+
+    elif choice == 2:
+        print("\n\nAdd Some Numbers\n\n")
+    elif choice == 3:
+        print("\n\nSubtract some Numbers\n\n")
+
+1. Show Menu
+2. Add Numbers
+3. Subtract Numbers
+4. Quit
+
+1
+1. Show Menu
+2. Add Numbers
+3. Subtract Numbers
+4. Quit
+
+2
+
+
+Add Some Numbers
+
+
+1. Show Menu
+2. Add Numbers
+3. Subtract Numbers
+4. Quit
+
+3
+
+
+Subtract some Numbers
+
+
+1. Show Menu
+2. Add Numbers
+3. Subtract Numbers
+4. Quit
+
+
+
+# Node translated code output
+
+1bdce81-3768-4eb6-9314-7af65bfb9c56
+
+# Goland translated code output 
+
+olleh

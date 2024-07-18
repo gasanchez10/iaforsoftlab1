@@ -1,0 +1,1 @@
+I installed Codenium's extension for Visual studio as it is free and could help me at my job as i use this IDE everyday to write code for locally run databricks code through multiple notebooks. I used this for the rest of the assignments and realy helped out to understand the syntax and complete it without consulting the documentation as frequent as one regularly would do.  

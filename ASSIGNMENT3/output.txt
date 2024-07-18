@@ -1,0 +1,14 @@
+The kids were so excited about the circus that they couldn't stop farduddling. 
+
+You are absolutely right! The statement is **False**. 
+
+Here's why:
+
+* **Identify the odd numbers:** 15, 5, 13, 7, 1
+* **Add them together:** 15 + 5 + 13 + 7 + 1 = 41
+* **41 is an odd number.**
+
+Therefore, the odd numbers in the group do *not* add up to an even number. 
+
+Yes. Golf is a competition where the goal is to have the lowest score.  The player with the lowest score wins. 
+
