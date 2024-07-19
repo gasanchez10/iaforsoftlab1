@@ -1,0 +1,145 @@
+Group Chat:
+Article Title: Jobless claims hit highest level since August - Yahoo Finance
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: France fire: Children among 7 dead in suspected arson attack in Nice - BBC.com
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Amazon Prime Day Apple deals on AirPods, MacBooks, iPads and more that are still available today - Engadget
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: What to Know About California’s Covid Surge - The New York Times
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Video: Dr. Gupta highlights something to watch out for with Biden’s Covid diagnosis - CNN
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Frustrated Caitlin Clark slams water bottle in tense moment during Fever loss - New York Post 
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Closer look at J.D. Vance's RNC speech. And, Biden tests positive for COVID - NPR
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: 'July 13 will be my premiere,' Trump rally gunman said on gaming platform before shooting: Sources - KABC-TV
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: How Iran's Khamenei elevated a little-known moderate to the presidency - Reuters
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: 3 reasons why I ditched my Galaxy S23 Ultra for Galaxy Z Fold 6 - SamMobile - Samsung news
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: European leaders discuss migration and Ukraine at a UK summit amid worries about Trump - The Associated Press
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: TSMC Raises Outlook as Profit Beats Estimates on Surging Chip Demand - The Wall Street Journal
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: What scientists know about bird flu symptoms from the first 9 U.S. human cases - NBC News
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Can Boeing get back to its glory days? - CNBC
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Trump ear bandages to MAGA dresses: Fashion at the RNC - The Hill
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: 2024 British Open leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 1 at Royal Troon - CBS Sports
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: 'A changed community': Fear and anger spread after Trump shooting - BBC.com
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: In states with strict abortion policies, simply seeing an OB/GYN for regular care can be difficult - NBC News
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: Fiery private chats reveal how deeply Biden has divided Dem delegates - POLITICO
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+Article Title: A scientist took a psychedelic drug — and watched his own brain 'fall apart' - NPR
+user_proxy: What are your thoughts on this news?
+critic: What are your thoughts on this news?
+writer: What are your thoughts on this news?
+planner: What are your thoughts on this news?
+
+
+[ ]
+
+Comienza a programar o generar con IA.
+Productos pagados de Colab - Cancela los contratos aquí
