@@ -1,0 +1,67 @@
+
+Hello, I'm here to help you get started with our product. Could you tell me your name and location?
+
+--------------------------------------------------------------------------------
+Provide feedback to Onboarding Personal Information Agent. Press enter to skip and use auto-reply, or type 'exit' to end the conversation: Carlos 
+customer_proxy_agent (to Onboarding Personal Information Agent):
+
+Carlos 
+
+--------------------------------------------------------------------------------
+Onboarding Personal Information Agent (to customer_proxy_agent):
+
+And what is your location, Carlos? 
+
+
+--------------------------------------------------------------------------------
+Provide feedback to Onboarding Personal Information Agent. Press enter to skip and use auto-reply, or type 'exit' to end the conversation: US
+customer_proxy_agent (to Onboarding Personal Information Agent):
+
+US
+
+--------------------------------------------------------------------------------
+Onboarding Topic preference Agent (to customer_proxy_agent):
+
+Great! Could you tell me what topics you are interested in reading about?
+Context: 
+{'content': "```json\n{'name': 'Carlos', 'location': 'US'}\n``` \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+--------------------------------------------------------------------------------
+Provide feedback to Onboarding Topic preference Agent. Press enter to skip and use auto-reply, or type 'exit' to end the conversation: rubik cube
+customer_proxy_agent (to Onboarding Topic preference Agent):
+
+rubik cube
+
+--------------------------------------------------------------------------------
+customer_proxy_agent (to Customer Engagement Agent):
+
+Let's find something fun to read.
+Context: 
+{'content': "```json\n{'name': 'Carlos', 'location': 'US'}\n``` \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+{'content': "The user provided information about a person named Carlos who lives in the US, and then asked about the assistant's interests. The assistant responded with an interest in Rubik's Cubes. \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+--------------------------------------------------------------------------------
+Customer Engagement Agent (to customer_proxy_agent):
+
+Hey Carlos! Since you're in the US, you might be surprised to learn that the world's largest Rubik's Cube was built in the US! It was a whopping 17 feet tall and weighed over 4,000 pounds! That's a lot of twists and turns! 🤯 
+
+Do you have any experience with Rubik's Cubes? I'm a bit of a beginner myself, but I'm always looking for fun new challenges! 😁 
+
+
+--------------------------------------------------------------------------------
+{'content': "```json\n{'name': 'Carlos', 'location': 'US'}\n``` \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+
+{'content': "The user provided information about a person named Carlos who lives in the US, and then asked about the assistant's interests. The assistant responded with an interest in Rubik's Cubes. \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+
+{'content': "The conversation is about Carlos, a US resident, and the assistant's interest in Rubik's Cubes. The assistant mentions the world's largest Rubik's Cube being built in the US and asks Carlos about their experience with the puzzle. \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+
+{'usage_including_cached_inference': {'total_cost': 0.001659, 'gemini-1.5-flash-latest': {'cost': 0.001659, 'prompt_tokens': 150, 'completion_tokens': 29, 'total_tokens': 179}}, 'usage_excluding_cached_inference': {'total_cost': 0.001659, 'gemini-1.5-flash-latest': {'cost': 0.001659, 'prompt_tokens': 150, 'completion_tokens': 29, 'total_tokens': 179}}}
+
+
+{'usage_including_cached_inference': {'total_cost': 0.001449, 'gemini-1.5-flash-latest': {'cost': 0.001449, 'prompt_tokens': 87, 'completion_tokens': 40, 'total_tokens': 127}}, 'usage_excluding_cached_inference': {'total_cost': 0.001449, 'gemini-1.5-flash-latest': {'cost': 0.001449, 'prompt_tokens': 87, 'completion_tokens': 40, 'total_tokens': 127}}}
+
+
+{'usage_including_cached_inference': {'total_cost': 0.006391, 'gemini-1.5-flash-latest': {'cost': 0.006391, 'prompt_tokens': 442, 'completion_tokens': 157, 'total_tokens': 599}}, 'usage_excluding_cached_inference': {'total_cost': 0.006391, 'gemini-1.5-flash-latest': {'cost': 0.006391, 'prompt_tokens': 442, 'completion_tokens': 157, 'total_tokens': 599}}}
